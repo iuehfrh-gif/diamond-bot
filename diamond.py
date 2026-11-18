@@ -17,7 +17,7 @@ ADMIN_USERNAME = "@minkhant460"
 
 # KPay Info
 KPAY_NAME = "Aye Thin"
-KPAY_PHONE = "09976215768"
+KPAY_PHONE = "09984060845"
 
 # Diamond Prices Setup (Diamond Amount / Weekly Pass: Price in MMK)
 DIAMOND_PRICES = {
